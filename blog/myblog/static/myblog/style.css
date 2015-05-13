@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+}
+
+#top {
+	background: #0C4B33;
+	overflow: hidden;
+	margin: 0;
+	padding: 0 0 6px;
+	position: relative;
+}
+
+.container{
+	margin: 0 auto;
+	max-width: 1400px;
+	padding: 0 4.16667%;
+}
+
+/* BlueCat's blog */
+.logo{
+	margin-left: 0;
+	font-size: 2rem;
+	font-family: "Roboto", Corbel, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+	color: #FFF;
+	display: block;
+	float: left;
+	font-weight: 700;
+	margin:10px;
+	overflow: hidden;
+	text-decoration: none;  /*get rid of underline*/
+}
+
+
+.meta{
+	font-size: 1rem;
+	color: #44B78B;
+	font-weight: 700;
+	margin: 23px 0 0 10px;
+	display: block;
+	float: left;
+
+}
